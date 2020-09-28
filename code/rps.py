@@ -1,4 +1,4 @@
-# Zach Sheley and Donald Long
+# Zach Sheley
 
 import random;
 
