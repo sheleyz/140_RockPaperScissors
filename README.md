@@ -1,3 +1,3 @@
 # Rock Paper Scissors
 
-This exercise asks students to play Rock, Paper, Scissors vs. a randomly-generated response from the computer.
+This program allows a user to play Rock, Paper, Scissors vs. a randomly-generated response from the computer.
